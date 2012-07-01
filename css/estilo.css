@@ -1,0 +1,33 @@
+body p
+{
+	text-align: center;
+	font-size: 50px;
+	background: red;
+}
+
+fieldset
+{
+	border: solid 2px;
+	width: 500px;
+	height: 150px;
+	margin: 20px 0px 0px 20px;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+
+#desc
+{
+	width: 400px;
+}
+#check
+{
+	margin-right: 10px;
+}
+#lista
+{
+	
+	padding: 10px 10px 10px 10px;
+	float: right;
+	margin-right: 200px;
+	margin-top: -220px;
+}

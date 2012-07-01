@@ -1,0 +1,3 @@
+create database gerentarefas;
+
+create table tarefas(id_tarefa int not null auto_increment primary key, descricao varchar(150), status int, data varchar(13), hora varchar(13))engine=InnoDB;
